@@ -1,1 +1,3 @@
-print("My git")
+name = input('your name: ')
+
+l_name = input('your last name: ')
